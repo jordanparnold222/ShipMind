@@ -1,0 +1,18 @@
+## API
+# Dependency directory
+node_modules/
+
+# Environment variables
+*.env
+
+# Logs
+*.log
+
+# Others
+*.pid
+*.pid.lock
+*.seed
+*.sqlite
+
+# OS generated files
+.DS_Store
